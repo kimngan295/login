@@ -7,5 +7,5 @@ This project implements a basic login functionality using ReactJS for the fronte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kimngan295/login-form
+   git clone https://github.com/kimngan295/login/tree/master
   
