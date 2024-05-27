@@ -1,11 +1,28 @@
 # Login Project
 
-This project implements a basic login functionality using ReactJS for the frontend, Node.js for the backend, and MongoDB as the database. 
+Login Project using ReactJS for the frontend, NodeJS for the backend, and MongoDB for the database. It allows users to log in using either Google or username/password credentials.
 
-### Backend Setup
+## Features
 
-1. Clone the repository:
+- User authentication with Google OAuth.
+- User authentication with username/password.
+- MongoDB database for storing user credentials.
 
-   ```bash
-   git clone https://github.com/kimngan295/login/tree/master
-  
+## Run test 
+   Account test:
+   {username:'johndoe',password:'hashedpassword123'}
+   {username:'janesmith',password:'hashedpassword456'}
+    
+   ### Run backend
+   cd /backend/
+   npm install
+   npm run dev
+
+   ### Run front end
+   cd /frontend/
+   npm install
+   npm start
+
+
+
+
