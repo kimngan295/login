@@ -14,14 +14,14 @@ Login Project using ReactJS for the frontend, NodeJS for the backend, and MongoD
    {username:'janesmith',password:'hashedpassword456'}
     
    ### Run backend
-   cd /backend/
-   npm install
-   npm run dev
+   - cd /backend/
+   - npm install
+   - npm run dev
 
    ### Run front end
-   cd /frontend/
-   npm install
-   npm start
+   - cd /frontend/
+   - npm install
+   - npm start
 
 
 
