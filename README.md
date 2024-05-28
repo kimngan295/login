@@ -1,7 +1,7 @@
 # Login Project
 
-Login Project using ReactJS for the frontend, NodeJS for the backend, and MongoDB for the database. It allows users to log in using either Google or username/password credentials.
-Link demo form: https://login-frontend-41b81cb3a99e.herokuapp.com/login
+- Login Project using ReactJS for the frontend, NodeJS for the backend, and MongoDB for the database. It allows users to log in using either Google or username/password credentials.
+- Link demo form: https://login-frontend-41b81cb3a99e.herokuapp.com/login
 
 ## Features
 
